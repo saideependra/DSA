@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/saideependra/DSA/tree/master/0016-3sum-closest) |
 | [0973-k-closest-points-to-origin](https://github.com/saideependra/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
@@ -22,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/saideependra/DSA/tree/master/0016-3sum-closest) |
 | [0973-k-closest-points-to-origin](https://github.com/saideependra/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -31,4 +33,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/saideependra/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/saideependra/DSA/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
