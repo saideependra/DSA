@@ -37,4 +37,16 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/saideependra/DSA/tree/master/0016-3sum-closest) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/saideependra/DSA/tree/master/0076-minimum-window-substring) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/saideependra/DSA/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/saideependra/DSA/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
