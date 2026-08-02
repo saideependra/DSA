@@ -17,6 +17,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/saideependra/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/saideependra/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -95,4 +96,16 @@
 | ------- |
 | [0621-task-scheduler](https://github.com/saideependra/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/saideependra/DSA/tree/master/0767-reorganize-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/saideependra/DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/saideependra/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/saideependra/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
