@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/saideependra/DSA/tree/master/0016-3sum-closest) |
+| [0039-combination-sum](https://github.com/saideependra/DSA/tree/master/0039-combination-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saideependra/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/saideependra/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/saideependra/DSA/tree/master/0621-task-scheduler) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saideependra/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/saideependra/DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/saideependra/DSA/tree/master/0039-combination-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
