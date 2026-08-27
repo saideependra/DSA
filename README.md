@@ -16,6 +16,7 @@
 | [0621-task-scheduler](https://github.com/saideependra/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/saideependra/DSA/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/saideependra/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/saideependra/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/saideependra/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/saideependra/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Math
@@ -98,6 +99,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/saideependra/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saideependra/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/saideependra/DSA/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/saideependra/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Greedy
 |  |
@@ -222,6 +224,7 @@
 | [0226-invert-binary-tree](https://github.com/saideependra/DSA/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saideependra/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/saideependra/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/saideependra/DSA/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/saideependra/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Lifting
 |  |
