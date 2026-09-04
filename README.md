@@ -12,6 +12,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saideependra/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/saideependra/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saideependra/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0493-reverse-pairs](https://github.com/saideependra/DSA/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/saideependra/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/saideependra/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/saideependra/DSA/tree/master/0658-find-k-closest-elements) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saideependra/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saideependra/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0493-reverse-pairs](https://github.com/saideependra/DSA/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/saideependra/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saideependra/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0493-reverse-pairs](https://github.com/saideependra/DSA/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/saideependra/DSA/tree/master/0658-find-k-closest-elements) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/saideependra/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
@@ -255,4 +258,24 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/saideependra/DSA/tree/master/0200-number-of-islands) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saideependra/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saideependra/DSA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saideependra/DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saideependra/DSA/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saideependra/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
