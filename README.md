@@ -11,6 +11,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saideependra/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saideependra/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/saideependra/DSA/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/saideependra/DSA/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saideependra/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/saideependra/DSA/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/saideependra/DSA/tree/master/0502-ipo) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/saideependra/DSA/tree/master/0016-3sum-closest) |
+| [0229-majority-element-ii](https://github.com/saideependra/DSA/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saideependra/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/saideependra/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/saideependra/DSA/tree/master/0621-task-scheduler) |
@@ -74,6 +76,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saideependra/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/saideependra/DSA/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saideependra/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0229-majority-element-ii](https://github.com/saideependra/DSA/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/saideependra/DSA/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saideependra/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/saideependra/DSA/tree/master/0767-reorganize-string) |
@@ -113,6 +116,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/saideependra/DSA/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/saideependra/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/saideependra/DSA/tree/master/0767-reorganize-string) |
 ## Dynamic Programming
@@ -278,4 +282,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/saideependra/DSA/tree/master/0493-reverse-pairs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/saideependra/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
