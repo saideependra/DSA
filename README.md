@@ -13,6 +13,7 @@
 | [0200-number-of-islands](https://github.com/saideependra/DSA/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/saideependra/DSA/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saideependra/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/saideependra/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/saideependra/DSA/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/saideependra/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/saideependra/DSA/tree/master/0621-task-scheduler) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saideependra/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/saideependra/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/saideependra/DSA/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/saideependra/DSA/tree/master/0658-find-k-closest-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saideependra/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -116,6 +118,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/saideependra/DSA/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/saideependra/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/saideependra/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/saideependra/DSA/tree/master/0767-reorganize-string) |
@@ -129,6 +132,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saideependra/DSA/tree/master/0022-generate-parentheses) |
+| [0410-split-array-largest-sum](https://github.com/saideependra/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/saideependra/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -292,4 +296,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/saideependra/DSA/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/saideependra/DSA/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
