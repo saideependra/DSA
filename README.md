@@ -93,6 +93,7 @@
 | [0022-generate-parentheses](https://github.com/saideependra/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/saideependra/DSA/tree/master/0076-minimum-window-substring) |
 | [0767-reorganize-string](https://github.com/saideependra/DSA/tree/master/0767-reorganize-string) |
+| [1021-remove-outermost-parentheses](https://github.com/saideependra/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,12 +157,14 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saideependra/DSA/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/saideependra/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saideependra/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saideependra/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saideependra/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/saideependra/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
