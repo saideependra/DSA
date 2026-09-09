@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/saideependra/DSA/tree/master/0016-3sum-closest) |
+| [0151-reverse-words-in-a-string](https://github.com/saideependra/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saideependra/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/saideependra/DSA/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
@@ -92,6 +93,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saideependra/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/saideependra/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/saideependra/DSA/tree/master/0076-minimum-window-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/saideependra/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0767-reorganize-string](https://github.com/saideependra/DSA/tree/master/0767-reorganize-string) |
 | [1021-remove-outermost-parentheses](https://github.com/saideependra/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
