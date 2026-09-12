@@ -104,6 +104,7 @@
 | [0767-reorganize-string](https://github.com/saideependra/DSA/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/saideependra/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/saideependra/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saideependra/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/saideependra/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
@@ -171,6 +172,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/saideependra/DSA/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/saideependra/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saideependra/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/saideependra/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saideependra/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/saideependra/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saideependra/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
