@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saideependra/DSA/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/saideependra/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/saideependra/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/saideependra/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -82,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saideependra/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saideependra/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/saideependra/DSA/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saideependra/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -95,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saideependra/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saideependra/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/saideependra/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/saideependra/DSA/tree/master/0076-minimum-window-substring) |
