@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/saideependra/DSA/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/saideependra/DSA/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/saideependra/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/saideependra/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/saideependra/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -120,6 +121,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/saideependra/DSA/tree/master/0069-sqrtx) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saideependra/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/saideependra/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/saideependra/DSA/tree/master/0493-reverse-pairs) |
@@ -341,4 +343,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saideependra/DSA/tree/master/0005-longest-palindromic-substring) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/saideependra/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
