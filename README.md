@@ -19,6 +19,7 @@
 | [0621-task-scheduler](https://github.com/saideependra/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/saideependra/DSA/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/saideependra/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0989-add-to-array-form-of-integer](https://github.com/saideependra/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/saideependra/DSA/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saideependra/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/saideependra/DSA/tree/master/1046-last-stone-weight) |
@@ -33,6 +34,7 @@
 | [0069-sqrtx](https://github.com/saideependra/DSA/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/saideependra/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/saideependra/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0989-add-to-array-form-of-integer](https://github.com/saideependra/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/saideependra/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
