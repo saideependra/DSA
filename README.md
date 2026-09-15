@@ -76,6 +76,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saideependra/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/saideependra/DSA/tree/master/0016-3sum-closest) |
 | [0151-reverse-words-in-a-string](https://github.com/saideependra/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saideependra/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -97,6 +98,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saideependra/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/saideependra/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/saideependra/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saideependra/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -153,6 +155,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saideependra/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/saideependra/DSA/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/saideependra/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/saideependra/DSA/tree/master/0509-fibonacci-number) |
@@ -334,4 +337,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/saideependra/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/saideependra/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
