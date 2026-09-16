@@ -98,6 +98,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saideependra/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/saideependra/DSA/tree/master/0767-reorganize-string) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/saideependra/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/saideependra/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0796-rotate-string](https://github.com/saideependra/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/saideependra/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saideependra/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/saideependra/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/saideependra/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
@@ -156,6 +158,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/saideependra/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/saideependra/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/saideependra/DSA/tree/master/0767-reorganize-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/saideependra/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
