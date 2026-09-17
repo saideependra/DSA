@@ -8,6 +8,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/saideependra/DSA/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/saideependra/DSA/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/saideependra/DSA/tree/master/0078-subsets) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saideependra/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saideependra/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/saideependra/DSA/tree/master/0200-number-of-islands) |
@@ -180,6 +181,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saideependra/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/saideependra/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/saideependra/DSA/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/saideependra/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/saideependra/DSA/tree/master/0113-path-sum-ii) |
 ## Bracket Sequences
 |  |
@@ -352,4 +354,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/saideependra/DSA/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/saideependra/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
