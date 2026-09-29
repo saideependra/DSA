@@ -30,6 +30,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/saideependra/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saideependra/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/saideependra/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/saideependra/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/saideependra/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/saideependra/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saideependra/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/saideependra/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
@@ -365,4 +367,8 @@
 | ------- |
 | [0078-subsets](https://github.com/saideependra/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/saideependra/DSA/tree/master/0090-subsets-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/saideependra/DSA/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
