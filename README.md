@@ -24,6 +24,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/saideependra/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/saideependra/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/saideependra/DSA/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/saideependra/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saideependra/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/saideependra/DSA/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saideependra/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/saideependra/DSA/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/saideependra/DSA/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/saideependra/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0410-split-array-largest-sum](https://github.com/saideependra/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/saideependra/DSA/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/saideependra/DSA/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/saideependra/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saideependra/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saideependra/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/saideependra/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -346,6 +349,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/saideependra/DSA/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/saideependra/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
 |  |
 | ------- |
