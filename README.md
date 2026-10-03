@@ -21,6 +21,7 @@
 | [0502-ipo](https://github.com/saideependra/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/saideependra/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/saideependra/DSA/tree/master/0658-find-k-closest-elements) |
+| [0930-binary-subarrays-with-sum](https://github.com/saideependra/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/saideependra/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/saideependra/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/saideependra/DSA/tree/master/0994-rotting-oranges) |
@@ -102,6 +103,7 @@
 | [0621-task-scheduler](https://github.com/saideependra/DSA/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saideependra/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/saideependra/DSA/tree/master/0767-reorganize-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/saideependra/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/saideependra/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saideependra/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
@@ -128,6 +130,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/saideependra/DSA/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/saideependra/DSA/tree/master/0658-find-k-closest-elements) |
+| [0930-binary-subarrays-with-sum](https://github.com/saideependra/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/saideependra/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -349,6 +352,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/saideependra/DSA/tree/master/0410-split-array-largest-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/saideependra/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/saideependra/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
 |  |
