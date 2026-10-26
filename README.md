@@ -106,6 +106,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saideependra/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/saideependra/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/saideependra/DSA/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/saideependra/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/saideependra/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/saideependra/DSA/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saideependra/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -126,6 +127,7 @@
 | [0076-minimum-window-substring](https://github.com/saideependra/DSA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/saideependra/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/saideependra/DSA/tree/master/0205-isomorphic-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/saideependra/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/saideependra/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/saideependra/DSA/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/saideependra/DSA/tree/master/0796-rotate-string) |
@@ -139,6 +141,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saideependra/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/saideependra/DSA/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/saideependra/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/saideependra/DSA/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/saideependra/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/saideependra/DSA/tree/master/1004-max-consecutive-ones-iii) |
